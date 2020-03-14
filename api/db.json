@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "User Id Stream Derp",
+      "description": "to test user id part",
+      "userId": "105242895989443492712",
+      "id": 3
+    },
+    {
+      "title": "Test Stream (testing edit)",
+      "description": "Testing programmatic navigation(testing edit)",
+      "userId": "105242895989443492712",
+      "id": 5
+    },
+    {
+      "title": "Stream by me! Dogolord!",
+      "description": "A cat is in a box! DERP!!! uwu",
+      "userId": "101015881570217906455",
+      "id": 6
+    }
+  ]
+}
